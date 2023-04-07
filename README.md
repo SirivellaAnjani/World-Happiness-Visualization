@@ -18,3 +18,4 @@ _Overview:_
    - Investigate different division of data and its corresponding visualization
    - Explore features of the Waffle library, such as icons
 
+![World_Happiness_Visualization](https://user-images.githubusercontent.com/122895160/230693618-92f1e4fb-8682-4f00-9724-29c31bbd3bb9.png)
